@@ -1,5 +1,5 @@
 ﻿ids,labels,parents,text
-Engineering,Engineering,,This is a long description of what this skill is and why it is used. Maybe why we need more training in this skill and where it is applied. The description could probably be very long.
+Engineering,This is a long description of what this skill is and why it is used. Maybe why we need more training in this skill and where it is applied. The description could probably be very long.,,This is a long description of what this skill is and why it is used. Maybe why we need more training in this skill and where it is applied. The description could probably be very long.
 Software,Software,Engineering,Sft
 Electrical,Electrical,Engineering,Elc
 Design,Design,Software,Des
