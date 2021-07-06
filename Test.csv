@@ -1,6 +1,6 @@
 ﻿ids,labels,parents,text
-Engineering,Engineering,,This is a long description of what this skill is and why it is used. <br> Maybe why we need more training in this skill and where it is applied. The description could probably be very long.
-Software,Software,Engineering,Sft
-Electrical,Electrical,Engineering,Elc
+En&gineering,Engineering,,This is a long description of what this skill is and why it is used. <br> Maybe why we need more training in this skill and where it is applied. The description could probably be very long.
+Software,Software,En&gineering,Sft
+Electrical,Electrical,En&gineering,Elc
 Design,Design,Software,Des
 Implementation,Implementation,Software,Imp
